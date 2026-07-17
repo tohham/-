@@ -54,3 +54,5 @@ show = tk.Label(root, text="", font=("微軟正黑體", 20), bg="pink1")
 show.pack()                # 將結果標籤放置到視窗畫面上
 
 root.mainloop()            # 啟動 Tkinter 的事件監聽大迴圈，讓視窗保持顯示並偵測使用者操作
+
+#以上都次自己寫的

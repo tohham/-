@@ -22,3 +22,5 @@ for r in requests:#用for迴圈來處理他給得的畫面
                 print("剪刀")
             if id == 43:#如果是刀 那就寫刀
                 print("刀刃") 
+
+                #註解都是自己寫的
