@@ -1,9 +1,11 @@
 (請按 Window + R 輸入 cmd 開啟 執行以下指令來下載套件)
 
   安裝網頁爬蟲、XML 解析與 YOLO 核心套件：
+  
 pip install requests beautifulsoup4 lxml ultralytics
 
-  安裝顯卡加速：#不想安裝 看下面
+  安裝顯卡加速：#不想安裝 看最下面:
+  
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
     注意
